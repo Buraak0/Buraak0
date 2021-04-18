@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">I'm a Discord Bot Developer</h3>
 
+- 🔭 I’m Server Owner [Theria Bot List](https://discord.gg/UHba4hHWAK)
+
+- 💬 Ask me about **Buraak#0001**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/UHba4hHWAK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="https://discord.gg/UHba4hHWAK" height="30" width="40" /></a>
